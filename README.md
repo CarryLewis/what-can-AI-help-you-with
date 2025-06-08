@@ -110,7 +110,8 @@ MIT 开源协议 —— 自由使用、修改与分享。
 ## 🚀 Let’s explore what AI can *really* do — together.  
 ## 🚀 一起探索AI真正的力量，让它成为你最可靠的智慧伙伴。
 
-##📊 Collaborative AI Idea Collection 表格协作链接
+
+📊 Collaborative AI Idea Collection 表格协作链接
 
 为了让更多非AI专业背景的同学和工作者能方便、实时地参与到“AI使用场景创意收集”中，我们采用了 Google Sheets 作为在线协作平台。
 
