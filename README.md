@@ -109,3 +109,21 @@ MIT 开源协议 —— 自由使用、修改与分享。
 
 ## 🚀 Let’s explore what AI can *really* do — together.  
 ## 🚀 一起探索AI真正的力量，让它成为你最可靠的智慧伙伴。
+
+##📊 Collaborative AI Idea Collection 表格协作链接
+
+为了让更多非AI专业背景的同学和工作者能方便、实时地参与到“AI使用场景创意收集”中，我们采用了 Google Sheets 作为在线协作平台。
+
+你可以通过下面的链接，直接在线编辑和补充你的AI使用想法，无需安装任何软件，只要有网络和谷歌账号即可参与：
+
+🔗 打开在线协作表格（Google Sheets）
+
+使用说明
+请在“AI Idea Collection”工作表中填写你的创意想法，描述你希望AI帮你完成的任务和场景
+使用“Reference Tags”标签页参考分类（如 Life / Work / Knowledge）
+所有编辑内容将实时保存，欢迎多次补充和完善
+为什么用 Google Sheets？
+方便多人同时在线协作
+轻松编辑，无需复杂操作
+数据实时同步，避免版本混乱
+如果你更喜欢下载本项目的Excel模板，也可以在GitHub仓库中找到。
