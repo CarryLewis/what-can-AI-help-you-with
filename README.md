@@ -117,10 +117,10 @@ MIT 开源协议 —— 自由使用、修改与分享。
 
 你可以通过下面的链接，直接在线编辑和补充你的AI使用想法，无需安装任何软件，只要有网络和谷歌账号即可参与：
 
-🔗 打开在线协作表格（Google Sheets）
+https://docs.google.com/spreadsheets/d/13-VzCLZS8xMmROwJ57DOXljDVANrTLvl/edit?usp=sharing&ouid=109281606680399908654&rtpof=true&sd=true
 
 使用说明
-请在“AI Idea Collection”工作表中填写你的创意想法，描述你希望AI帮你完成的任务和场景
+请在工作表中填写你的创意想法，描述你希望AI帮你完成的任务和场景
 使用“Reference Tags”标签页参考分类（如 Life / Work / Knowledge）
 所有编辑内容将实时保存，欢迎多次补充和完善
 为什么用 Google Sheets？
@@ -128,3 +128,19 @@ MIT 开源协议 —— 自由使用、修改与分享。
 轻松编辑，无需复杂操作
 数据实时同步，避免版本混乱
 如果你更喜欢下载本项目的Excel模板，也可以在GitHub仓库中找到。
+
+📊Collaborative AI Idea Collection Table Collaboration Link 
+In order to enable more students and professionals without an AI background to conveniently and promptly participate in the "AI Usage Scenario Idea Collection", we have adopted Google Sheets as the online collaboration platform. 
+You can directly edit and supplement your ideas about AI usage online through the following link. No software installation is required. All you need is an internet connection and a Google account to participate: 
+
+https://docs.google.com/spreadsheets/d/13-VzCLZS8xMmROwJ57DOXljDVANrTLvl/edit?usp=sharing&ouid=109281606680399908654&rtpof=true&sd=true
+
+Instruction for Use
+Please fill in your creative ideas in the worksheet, describing the tasks and scenarios you expect the AI to assist you with.
+Use the "Reference Tags" tab for classification (such as Life / Work / Knowledge)
+All edited content will be saved in real time. Feel free to add and refine it multiple times.
+Why use Google Sheets?
+It is convenient for multiple people to collaborate online simultaneously.
+Easy to edit without complex operations.
+Data is synchronized in real time, avoiding version confusion.
+If you prefer to download the Excel template of this project, you can also find it in the GitHub repository.
